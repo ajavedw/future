@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+</head>
+
+<body>
+    <textarea name="" id="textarea" cols="30" rows="10" class="textarea" style=" display: none;"></textarea>
+    <br>
+
+    <select name="" id="select" class="select" style="width:300px;">
+        <option class="selecto" value="one1">i dont</option>
+        <option class="selecto" value="one">ii dont</option>
+        <option class="selecto" value="one2">iii dont</option>
+        <option class="selecto" value="one3">iv dont</option>
+        <option class="other" value="other">other</option>
+    </select>
+    <script>
+        /*         $(function() {
+                                                                                                                                    $(".select").change(function() {
+                                                                                                                                        debugger
+                                                                                                                                        var str = "";
+                                                                                                                                        var val = $(this).val();
+                                                                                                                                        //$(".select")
+                                                                                                                                        if (val == "one") {
+                                                                                                                                            str = $(this).text();
+                                                                                                                                        }
+                                                                                                                                        $(".textarea").text(str);
+                                                                                                                                        if (val == 'other') {
+
+                                                                                                                                        }
+
+                                                                                                                                    });
+                                                                                                                                }); */
+
+
+        var select = document.getElementById('select');
+        select.onchange = function() {
+            var selIndex = select.selectedIndex;
+            var selValue = select.options[selIndex].innerHTML;
+            if (selValue == 'other') {
+                document.getElementById('textarea').style.display = 'block';
+                document.getElementById('textarea').innerHTML = selValue;
+            }
+            document.getElementById('textarea').innerHTML = selValue;
+
+        }
+    </script>
+
+</body>
+
+</html>
