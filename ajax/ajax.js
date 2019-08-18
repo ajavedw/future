@@ -27,7 +27,7 @@ function ajaxfunction() {
     ajaxrequest.open('GET', '/phpmysql/html-welcome.html');
     ajaxrequest.send();
 }
-
+//check gutter
 function randonMessages() {
     var ajaxRequest = new XMLHttpRequest;
     ajaxRequest.onreadystatechange = function() {
@@ -46,3 +46,5 @@ function randonMessages() {
     ajaxRequest.open('GET', '/phpmysql/random-welcomes.json');
     ajaxRequest.send();
 }
+
+//tets
