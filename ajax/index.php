@@ -13,11 +13,11 @@
         <input type="text" name="" id="textbox"><input id="button" type="button" name="search" value="Load">
         <div class="content"></div>
     </form>
-    <button onclick="ajaxfunction()">ajax</button>
+    <button onclick="randomMessages()">ajax</button>
     <p id="new"></p>
     <p id="color"></p>
 
-    <button onclick="randonMessages()">object</button>
+    <button onclick="randomMessages()">object</button>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"> </script>
     <script src="ajax.js"></script>
 </body>
