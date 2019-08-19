@@ -1,0 +1,1 @@
+INSERT INTO users (username, email, verified, token, password) VALUES(?, ?, ?, ?, ?);

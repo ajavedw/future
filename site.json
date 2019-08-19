@@ -1,0 +1,3048 @@
+[
+
+
+
+
+
+ {
+  "title": "How to Interview",
+  "categories": ["tutorials","how-to"],
+  "url": "/tutorials/how-to/interview",
+  "thumbnail": "/tutorials/how-to/images/interview-2.jpg",
+  "tagline": "What to expect and how to approach tech interviews.",
+  "tags": ["tutorial","how-to","interview","career"],
+  "date": "2019-08-10 00:00:00 +0000",
+  "printedPages": 17
+ },
+
+
+
+
+
+ {
+  "title": "Debootstrapification",
+  "categories": ["blog"],
+  "url": "/blog/debootstrapification",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2019-07-07 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Checking My Privilege",
+  "categories": ["blog"],
+  "url": "/blog/checking-my-privilege",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2019-06-09 00:00:00 +0000",
+  "printedPages": 6
+ },
+
+
+
+
+
+ {
+  "title": "Google Cloud Tutorials",
+  "categories": ["blog"],
+  "url": "/blog/google-cloud-tutorials",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2019-05-25 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Vision",
+  "categories": ["tutorials","google-cloud"],
+  "url": "/tutorials/google-cloud/vision",
+  "thumbnail": "/tutorials/google-cloud/images/vision-3.png",
+  "tagline": "Use machine learning to analyze images.",
+  "tags": ["tutorial","javascript","google","cloud","vision"],
+  "date": "2019-05-06 00:00:00 +0000",
+  "printedPages": 6
+ },
+
+
+
+
+
+ {
+  "title": "Client / Server Communication",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/client-server",
+  "thumbnail": "/tutorials/java-server/images/client-server-7.png",
+  "tagline": "Learn about clients, servers, requests, and responses.",
+  "tags": ["tutorial","java","server","post"],
+  "date": "2019-05-04 00:00:00 +0000",
+  "printedPages": 8
+ },
+
+
+
+
+
+ {
+  "title": "Translation",
+  "categories": ["tutorials","google-cloud"],
+  "url": "/tutorials/google-cloud/translation",
+  "thumbnail": "/tutorials/google-cloud/images/translation-2.png",
+  "tagline": "¡Feliz codificación!",
+  "tags": ["tutorial","javascript","google","cloud","translation"],
+  "date": "2019-04-28 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Natural Language",
+  "categories": ["tutorials","google-cloud"],
+  "url": "/tutorials/google-cloud/natural-language",
+  "thumbnail": "/tutorials/google-cloud/images/natural-language-3.png",
+  "tagline": "Use machine learning to analyze natural language.",
+  "tags": ["tutorial","javascript","google","cloud","natural-language"],
+  "date": "2019-04-20 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Blobstore",
+  "categories": ["tutorials","google-cloud"],
+  "url": "/tutorials/google-cloud/blobstore",
+  "thumbnail": "/tutorials/google-cloud/images/blobstore-4.png",
+  "tagline": "Allow users to upload images and other files.",
+  "tags": ["tutorial","javascript","google","cloud","blobstore"],
+  "date": "2019-04-13 00:00:00 +0000",
+  "printedPages": 7
+ },
+
+
+
+
+
+ {
+  "title": "Google Maps",
+  "categories": ["tutorials","google-cloud"],
+  "url": "/tutorials/google-cloud/maps",
+  "thumbnail": "/examples/javascript/libraries/images/washington-dc-tour-1.png",
+  "tagline": "Add an interactive map to your page.",
+  "tags": ["tutorial","javascript","google","cloud","maps"],
+  "date": "2019-04-01 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Authentication",
+  "categories": ["tutorials","google-cloud"],
+  "url": "/tutorials/google-cloud/authentication",
+  "thumbnail": "/tutorials/google-cloud/images/authentication-1.png",
+  "tagline": "Allow users to login.",
+  "tags": ["tutorial","java","server","google","cloud","authentication"],
+  "date": "2019-03-29 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Datastore",
+  "categories": ["tutorials","google-cloud"],
+  "url": "/tutorials/google-cloud/datastore",
+  "thumbnail": "/tutorials/google-cloud/images/datastore-1.png",
+  "tagline": "Store your data.",
+  "tags": ["tutorial","java","server","google","cloud","datastore","database"],
+  "date": "2019-03-24 00:00:00 +0000",
+  "printedPages": 5
+ },
+
+
+
+
+
+ {
+  "title": "App Engine",
+  "categories": ["tutorials","google-cloud"],
+  "url": "/tutorials/google-cloud/app-engine",
+  "thumbnail": "/tutorials/java-server/images/hosting-google-app-engine-5.png",
+  "tagline": "Deploy your web app.",
+  "tags": ["tutorial","java","server","google","cloud","app-engine"],
+  "date": "2019-03-24 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Setup",
+  "categories": ["tutorials","google-cloud"],
+  "url": "/tutorials/google-cloud/setup",
+  "thumbnail": "/tutorials/google-cloud/images/google-cloud-icon-1.png",
+  "tagline": "Getting started with Google Cloud",
+  "tags": ["tutorial","java","server","google","cloud"],
+  "date": "2019-03-19 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "The Stack Overflow Culture Wars",
+  "categories": ["blog"],
+  "url": "/blog/stack-overflow-culture-wars",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2019-03-03 00:00:00 +0000",
+  "printedPages": 8
+ },
+
+
+
+
+
+ {
+  "title": "Happy Arting",
+  "categories": ["blog"],
+  "url": "/blog/happy-arting",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2019-02-16 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "How to Sell Digital Art Online",
+  "categories": ["tutorials","how-to"],
+  "url": "/tutorials/how-to/sell-digital-art-online",
+  "thumbnail": "/tutorials/how-to/images/sell-digital-art-online-3.png",
+  "tagline": "How to sell your art on Etsy.",
+  "tags": ["tutorial","how-to","art"],
+  "date": "2019-02-10 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "The Power of Boredom",
+  "categories": ["blog"],
+  "url": "/blog/the-power-of-boredom",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2019-01-28 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Happy New Year 2019",
+  "categories": ["blog"],
+  "url": "/blog/happy-new-year-2019",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2019-01-01 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Unit Testing",
+  "categories": ["tutorials","java"],
+  "url": "/tutorials/java/unit-testing",
+  "thumbnail": "/tutorials/java/images/unit-testing-1.png",
+  "tagline": "JUnit and Mockito",
+  "tags": ["tutorial","java","junit","mockito"],
+  "date": "2018-11-04 00:00:00 +0000",
+  "printedPages": 6
+ },
+
+
+
+
+
+ {
+  "title": "Pathfinding",
+  "categories": ["tutorials","libgdx"],
+  "url": "/tutorials/libgdx/pathfinding",
+  "thumbnail": "/tutorials/libgdx/images/pathfinding-13.png",
+  "tagline": "From A to B.",
+  "tags": ["tutorial","libgdx","gdxai","pathfinding","a-star"],
+  "date": "2018-11-03 00:00:00 +0000",
+  "printedPages": 13
+ },
+
+
+
+
+
+ {
+  "title": "Random",
+  "categories": ["tutorials","p5js"],
+  "url": "/tutorials/p5js/random",
+  "thumbnail": "/tutorials/p5js/images/random-34.png",
+  "tagline": "The power and beauty of the random function.",
+  "tags": ["tutorial","p5.js","javascript","random"],
+  "date": "2018-08-20 00:00:00 +0000",
+  "printedPages": 14
+ },
+
+
+
+
+
+ {
+  "title": "When Failing isn't Failure",
+  "categories": ["blog"],
+  "url": "/blog/when-failing-isnt-failure",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2018-08-19 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Android and LibGDX Tutorials",
+  "categories": ["blog"],
+  "url": "/blog/android-libgdx-tutorials",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2018-08-10 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Libraries",
+  "categories": ["tutorials","libgdx"],
+  "url": "/tutorials/libgdx/libraries",
+  "thumbnail": "/tutorials/libgdx/images/libraries-3.png",
+  "tagline": "Cross-platform code.",
+  "tags": ["tutorial","libgdx"],
+  "date": "2018-08-04 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Sound",
+  "categories": ["tutorials","libgdx"],
+  "url": "/tutorials/libgdx/sound",
+  "thumbnail": "/examples/processing/libraries/images/random-piano-1.png",
+  "tagline": "Add music and sound effects.",
+  "tags": ["tutorial","libgdx"],
+  "date": "2018-08-01 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Multiple Exposures",
+  "categories": ["gallery","movie-colors"],
+  "url": "/gallery/movie-colors/multiple-exposures",
+  "thumbnail": "/gallery/movie-colors/images/multiple-exposures-1.png",
+  "tagline": "Every frame combined into a single image.",
+  "tags": [],
+  "date": "2018-07-31 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Movie Colors",
+  "categories": ["gallery","movie-colors"],
+  "url": "/gallery/movie-colors/index",
+  "thumbnail": "/gallery/movie-colors/images/thumbnail-1.png",
+  "tagline": "Every frame a line, every line a color.",
+  "tags": [],
+  "date": "2018-07-31 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Color Timelines",
+  "categories": ["gallery","movie-colors"],
+  "url": "/gallery/movie-colors/timelines",
+  "thumbnail": "/gallery/movie-colors/images/thumbnail-1.png",
+  "tagline": "Every frame a line, every line a color.",
+  "tags": [],
+  "date": "2018-07-26 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Comic Book Colors - Interactive Visualization",
+  "categories": ["gallery","comic-book-colors"],
+  "url": "/gallery/comic-book-colors/interactive",
+  "thumbnail": "/gallery/comic-book-colors/images/thumbnail-1.png",
+  "tagline": "",
+  "tags": [],
+  "date": "2018-07-16 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Comic Book Colors",
+  "categories": ["gallery","comic-book-colors"],
+  "url": "/gallery/comic-book-colors/index",
+  "thumbnail": "/gallery/comic-book-colors/images/thumbnail-1.png",
+  "tagline": "Color is very important to comic books- here's why!",
+  "tags": [],
+  "date": "2018-07-16 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Comic Book Colors - Code",
+  "categories": ["gallery","comic-book-colors"],
+  "url": "/gallery/comic-book-colors/code",
+  "thumbnail": "/gallery/comic-book-colors/images/thumbnail-1.png",
+  "tagline": "",
+  "tags": [],
+  "date": "2018-07-16 00:00:00 +0000",
+  "printedPages": 8
+ },
+
+
+
+
+
+ {
+  "title": "Comic Book Colors - About",
+  "categories": ["gallery","comic-book-colors"],
+  "url": "/gallery/comic-book-colors/about",
+  "thumbnail": "/gallery/comic-book-colors/images/thumbnail-1.png",
+  "tagline": "",
+  "tags": [],
+  "date": "2018-07-16 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Fireworks",
+  "categories": ["examples","p5js"],
+  "url": "/examples/p5js/fireworks",
+  "thumbnail": "/examples/p5js/images/fireworks-2.png",
+  "tagline": "Ooh! Aah!",
+  "tags": ["example","p5.js","javascript","es6"],
+  "date": "2018-07-04 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Images",
+  "categories": ["tutorials","libgdx"],
+  "url": "/tutorials/libgdx/images",
+  "thumbnail": "/tutorials/libgdx/images/images-3.png",
+  "tagline": "Use images in your game.",
+  "tags": ["tutorial","libgdx"],
+  "date": "2018-06-18 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Graphics",
+  "categories": ["tutorials","libgdx"],
+  "url": "/tutorials/libgdx/graphics",
+  "thumbnail": "/tutorials/libgdx/images/graphics-4.png",
+  "tagline": "Use OpenGL to draw your game.",
+  "tags": ["tutorial","libgdx"],
+  "date": "2018-06-15 00:00:00 +0000",
+  "printedPages": 11
+ },
+
+
+
+
+
+ {
+  "title": "Simple Reference",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/simple-reference",
+  "thumbnail": "/tutorials/processing/images/hour-of-code-11.png",
+  "tagline": "Just the drawing functions.",
+  "tags": ["tutorial","processing"],
+  "date": "2018-06-02 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Multiple Game Screens",
+  "categories": ["tutorials","libgdx"],
+  "url": "/tutorials/libgdx/game-screens",
+  "thumbnail": "/tutorials/libgdx/images/game-screens-3.png",
+  "tagline": "Show different screens in your game.",
+  "tags": ["tutorial","libgdx"],
+  "date": "2018-05-27 00:00:00 +0000",
+  "printedPages": 8
+ },
+
+
+
+
+
+ {
+  "title": "User Input",
+  "categories": ["tutorials","libgdx"],
+  "url": "/tutorials/libgdx/input",
+  "thumbnail": "/tutorials/libgdx/images/input-1.png",
+  "tagline": "React to user input.",
+  "tags": ["tutorial","libgdx","input"],
+  "date": "2018-05-26 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Hello World",
+  "categories": ["tutorials","libgdx"],
+  "url": "/tutorials/libgdx/hello-world",
+  "thumbnail": "/tutorials/libgdx/images/hello-world-3.png",
+  "tagline": "Create your first libGDX game.",
+  "tags": ["tutorial","libgdx"],
+  "date": "2018-05-21 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Build a Social App",
+  "categories": ["tutorials","how-to"],
+  "url": "/tutorials/how-to/social-app",
+  "thumbnail": "/tutorials/processing/images/hour-of-code-11.png",
+  "tagline": "How to build a social networking app.",
+  "tags": ["tutorial","how-to"],
+  "date": "2018-04-23 00:00:00 +0000",
+  "printedPages": 5
+ },
+
+
+
+
+
+ {
+  "title": "Setup",
+  "categories": ["tutorials","libgdx"],
+  "url": "/tutorials/libgdx/setup",
+  "thumbnail": "/tutorials/libgdx/images/libgdx-1.png",
+  "tagline": "Prepare your workspace.",
+  "tags": ["tutorial","libgdx"],
+  "date": "2018-03-25 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Custom Drawing",
+  "categories": ["tutorials","android"],
+  "url": "/tutorials/android/custom-drawing",
+  "thumbnail": "/tutorials/android/images/custom-drawing-4.png",
+  "tagline": "Create your own View.",
+  "tags": ["tutorial","android"],
+  "date": "2018-03-17 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Storage",
+  "categories": ["tutorials","android"],
+  "url": "/tutorials/android/storage",
+  "thumbnail": "/tutorials/android/images/storage-2.png",
+  "tagline": "Save your app's data.",
+  "tags": ["tutorial","android"],
+  "date": "2018-03-10 00:00:00 +0000",
+  "printedPages": 7
+ },
+
+
+
+
+
+ {
+  "title": "Activities",
+  "categories": ["tutorials","android"],
+  "url": "/tutorials/android/activities",
+  "thumbnail": "/tutorials/android/images/activities-1.png",
+  "tagline": "Explore the Android lifecycle.",
+  "tags": ["tutorial","android"],
+  "date": "2018-01-15 00:00:00 +0000",
+  "printedPages": 5
+ },
+
+
+
+
+
+ {
+  "title": "Layouts",
+  "categories": ["tutorials","android"],
+  "url": "/tutorials/android/layouts",
+  "thumbnail": "/tutorials/android/images/layouts-5.png",
+  "tagline": "Define your app's user interface.",
+  "tags": ["tutorial","android"],
+  "date": "2018-01-11 00:00:00 +0000",
+  "printedPages": 8
+ },
+
+
+
+
+
+ {
+  "title": "Anatomy of an Android App",
+  "categories": ["tutorials","android"],
+  "url": "/tutorials/android/anatomy",
+  "thumbnail": "/tutorials/android/images/hello-world-8.png",
+  "tagline": "Activities and Layouts and Views, oh my!",
+  "tags": ["tutorial","android"],
+  "date": "2018-01-07 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Hello World",
+  "categories": ["tutorials","android"],
+  "url": "/tutorials/android/hello-world",
+  "thumbnail": "/tutorials/android/images/hello-world-10.png",
+  "tagline": "Create your first Android app.",
+  "tags": ["tutorial","android","hello-world"],
+  "date": "2018-01-06 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Happy New Year",
+  "categories": ["blog"],
+  "url": "/blog/happy-new-year-2018",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2018-01-01 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Libraries",
+  "categories": ["tutorials","p5js"],
+  "url": "/tutorials/p5js/libraries",
+  "thumbnail": "/tutorials/p5js/images/libraries-2.png",
+  "tagline": "Mix other JavaScript libraries with P5.js",
+  "tags": ["tutorial","p5.js","javascript","libraries"],
+  "date": "2017-12-15 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "P5.js and Web Dev",
+  "categories": ["tutorials","p5js"],
+  "url": "/tutorials/p5js/web",
+  "thumbnail": "/tutorials/p5js/images/web-1.png",
+  "tagline": "Mix P5.js and HTML, CSS, and JavaScript.",
+  "tags": ["tutorial","p5.js","javascript","html","css"],
+  "date": "2017-11-06 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "One Roomba",
+  "categories": ["gallery"],
+  "url": "/gallery/one-roomba",
+  "thumbnail": "/gallery/images/one-roomba-1.png",
+  "tagline": "Ludum Dare 37",
+  "tags": [],
+  "date": "2017-11-04 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Review",
+  "categories": ["tutorials","p5js"],
+  "url": "/tutorials/p5js/review",
+  "thumbnail": "/tutorials/p5js/images/review-1.png",
+  "tagline": "Review Processing, HTML, and JavaScript topics.",
+  "tags": ["tutorial","p5.js","javascript","review"],
+  "date": "2017-10-14 00:00:00 +0000",
+  "printedPages": 8
+ },
+
+
+
+
+
+ {
+  "title": "Hello World",
+  "categories": ["tutorials","p5js"],
+  "url": "/tutorials/p5js/hello-world",
+  "thumbnail": "/tutorials/p5js/images/hello-world-2.png",
+  "tagline": "Say hello to P5.js!",
+  "tags": ["tutorial","p5.js","javascript","hello-world"],
+  "date": "2017-09-23 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Editors",
+  "categories": ["tutorials","p5js"],
+  "url": "/tutorials/p5js/editors",
+  "thumbnail": "/tutorials/p5js/images/editors-9.png",
+  "tagline": "Which P5.js editor should I use?",
+  "tags": ["tutorial","p5.js","javascript"],
+  "date": "2017-09-20 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Server Tutorials",
+  "categories": ["blog"],
+  "url": "/blog/server-tutorials",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2017-09-19 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Which Processing?",
+  "categories": ["tutorials","p5js"],
+  "url": "/tutorials/p5js/which-processing",
+  "thumbnail": "/tutorials/p5js/images/which-processing-1.png",
+  "tagline": "Which Processing should I use?",
+  "tags": ["tutorial","p5.js","processing","processing.js","javascript"],
+  "date": "2017-09-16 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Secure Password Storage",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/secure-password-storage",
+  "thumbnail": "/tutorials/java-server/images/secure-password-storage-1.png",
+  "tagline": "How to (not) store passwords.",
+  "tags": ["tutorial","java","server","post","secure-password-storage"],
+  "date": "2017-09-07 00:00:00 +0000",
+  "printedPages": 13
+ },
+
+
+
+
+
+ {
+  "title": "Social Feed Website",
+  "categories": ["examples","java-server","thread-safety"],
+  "url": "/examples/java-server/thread-safety/social-feed-website",
+  "thumbnail": "/examples/java-server/sessions/images/social-feed-website-7.png",
+  "tagline": "Allow multiple users to post messages safely.",
+  "tags": ["example","java","server","jsp","post","sessions","thread-safety"],
+  "date": "2017-08-27 00:00:00 +0000",
+  "printedPages": 8
+ },
+
+
+
+
+
+ {
+  "title": "Sanitizing User Input",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/sanitizing-user-input",
+  "thumbnail": "/tutorials/java-server/images/sanitizing-user-input-7.png",
+  "tagline": "Safely handle user input.",
+  "tags": ["tutorial","java","server","post","sanitizing-user-input"],
+  "date": "2017-08-26 00:00:00 +0000",
+  "printedPages": 10
+ },
+
+
+
+
+
+ {
+  "title": "Social Feed Website",
+  "categories": ["examples","java-server","sessions"],
+  "url": "/examples/java-server/sessions/social-feed-website",
+  "thumbnail": "/examples/java-server/sessions/images/social-feed-website-7.png",
+  "tagline": "Allow users to login and create their own posts.",
+  "tags": ["example","java","server","jsp","post","sessions"],
+  "date": "2017-08-26 00:00:00 +0000",
+  "printedPages": 9
+ },
+
+
+
+
+
+ {
+  "title": "Social Feed Website",
+  "categories": ["examples","java-server","post"],
+  "url": "/examples/java-server/post/social-feed-website",
+  "thumbnail": "/examples/java-server/post/images/social-feed-website-3.png",
+  "tagline": "Allow users to create their own posts.",
+  "tags": ["example","java","server","jsp","post"],
+  "date": "2017-08-23 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Social Feed Website",
+  "categories": ["examples","java-server","servlets"],
+  "url": "/examples/java-server/servlets/social-feed-website",
+  "thumbnail": "/examples/java-server/servlets/images/social-feed-website-3.png",
+  "tagline": "Use servlets to show user posts.",
+  "tags": ["example","java","server","servlets"],
+  "date": "2017-08-16 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Social Feed Website",
+  "categories": ["examples","java-server","jsp"],
+  "url": "/examples/java-server/jsp/social-feed-website",
+  "thumbnail": "/examples/java-server/jsp/images/social-feed-website-3.png",
+  "tagline": "Use JSP to render user posts.",
+  "tags": ["example","java","server","jsp"],
+  "date": "2017-08-16 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Struts",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/struts",
+  "thumbnail": "/tutorials/java-server/images/struts-2.png",
+  "tagline": "Use the Struts framework to make advanced web apps.",
+  "tags": ["tutorial","java","server","struts"],
+  "date": "2017-08-05 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Uploading Files",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/uploading-files",
+  "thumbnail": "/tutorials/java-server/images/uploading-files-1.png",
+  "tagline": "Let users upload images and other files.",
+  "tags": ["tutorial","java","server","file-upload"],
+  "date": "2017-07-21 00:00:00 +0000",
+  "printedPages": 6
+ },
+
+
+
+
+
+ {
+  "title": "Creating a REST API",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/rest-api",
+  "thumbnail": "/tutorials/java-server/images/rest-api-3.png",
+  "tagline": "Use REST to support various clients.",
+  "tags": ["tutorial","java","server","rest","ajax","json"],
+  "date": "2017-07-08 00:00:00 +0000",
+  "printedPages": 19
+ },
+
+
+
+
+
+ {
+  "title": "Databases",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/databases",
+  "thumbnail": "/tutorials/java-server/images/databases-2.png",
+  "tagline": "Store your data in a database.",
+  "tags": ["tutorial","java","server","database"],
+  "date": "2017-06-29 00:00:00 +0000",
+  "printedPages": 19
+ },
+
+
+
+
+
+ {
+  "title": "Libraries",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/libraries",
+  "thumbnail": "/tutorials/java-server/images/libraries-5.png",
+  "tagline": "Use libraries in your server code.",
+  "tags": ["tutorial","java","server","libraries"],
+  "date": "2017-06-26 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Hosting on Google App Engine",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/hosting-google-app-engine",
+  "thumbnail": "/tutorials/java-server/images/hosting-google-app-engine-5.png",
+  "tagline": "Host your server on Google App Engine so other people can use your web app.",
+  "tags": ["tutorial","java","server","hosting","google-app-engine"],
+  "date": "2017-06-24 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Hosting on AWS",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/hosting-aws",
+  "thumbnail": "/tutorials/java-server/images/hosting-aws-9.png",
+  "tagline": "Host your server on AWS so other people can use your web app.",
+  "tags": ["tutorial","java","server","hosting","aws"],
+  "date": "2017-06-18 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Thread Safety",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/thread-safety",
+  "thumbnail": "/tutorials/java-server/images/thread-safety-7.png",
+  "tagline": "Safely handle multiple requests at the same time.",
+  "tags": ["tutorial","java","server","threading"],
+  "date": "2017-06-15 00:00:00 +0000",
+  "printedPages": 10
+ },
+
+
+
+
+
+ {
+  "title": "Sessions",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/sessions",
+  "thumbnail": "/tutorials/java-server/images/sessions-7.png",
+  "tagline": "Store user data between requests.",
+  "tags": ["tutorial","java","server","session"],
+  "date": "2017-06-11 00:00:00 +0000",
+  "printedPages": 12
+ },
+
+
+
+
+
+ {
+  "title": "Post Requests",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/post",
+  "thumbnail": "/tutorials/java-server/images/post-9.png",
+  "tagline": "Send data to a server.",
+  "tags": ["tutorial","java","server","post"],
+  "date": "2017-06-10 00:00:00 +0000",
+  "printedPages": 10
+ },
+
+
+
+
+
+ {
+  "title": "Eclipse EE",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/eclipse-ee",
+  "thumbnail": "/tutorials/java/images/eclipse-16.png",
+  "tagline": "Use Eclipse to write server code.",
+  "tags": ["tutorial","java","server","eclipse"],
+  "date": "2017-06-04 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Processing Showcase",
+  "categories": ["examples","java","processing-in-java"],
+  "url": "/examples/java/processing-in-java/processing-showcase",
+  "thumbnail": "/tutorials/processing/images/processing-icon-small-1.png",
+  "tagline": "Create a Java program that cycles through Processing sketches.",
+  "tags": ["example","java","processing","processing-in-java"],
+  "date": "2017-05-30 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "JSP",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/jsp",
+  "thumbnail": "/tutorials/java-server/images/jsp-7.png",
+  "tagline": "JavaServer Pages",
+  "tags": ["tutorial","java","server","jsp"],
+  "date": "2017-05-29 00:00:00 +0000",
+  "printedPages": 10
+ },
+
+
+
+
+
+ {
+  "title": "Servlets",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/servlets",
+  "thumbnail": "/tutorials/java-server/images/servlets-6.png",
+  "tagline": "Create a dynamic web app.",
+  "tags": ["tutorial","java"],
+  "date": "2017-05-28 00:00:00 +0000",
+  "printedPages": 7
+ },
+
+
+
+
+
+ {
+  "title": "New Nav Font",
+  "categories": ["blog"],
+  "url": "/blog/new-nav-font",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2017-05-28 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Jetty Setup",
+  "categories": ["tutorials","java-server"],
+  "url": "/tutorials/java-server/jetty-setup",
+  "thumbnail": "/tutorials/java-server/images/jetty-setup-4.png",
+  "tagline": "Run your own server.",
+  "tags": ["tutorial","java","server"],
+  "date": "2017-05-27 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Swing Control Window",
+  "categories": ["examples","java","processing-in-java"],
+  "url": "/examples/java/processing-in-java/swing-control-window",
+  "thumbnail": "/examples/java/processing-in-java/images/swing-control-window-4.png",
+  "tagline": "Create a Processing sketch with a Swing control window.",
+  "tags": ["example","java","processing","processing-in-java"],
+  "date": "2017-05-21 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Java Tutorials",
+  "categories": ["blog"],
+  "url": "/blog/java-tutorials",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2017-05-13 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Processing in Java",
+  "categories": ["tutorials","java"],
+  "url": "/tutorials/java/processing-in-java",
+  "thumbnail": "/tutorials/java/images/processing-in-java-4.png",
+  "tagline": "Use Processing as a Java library.",
+  "tags": ["tutorial","java","processing"],
+  "date": "2017-05-06 00:00:00 +0000",
+  "printedPages": 6
+ },
+
+
+
+
+
+ {
+  "title": "Free Paycheck Calculator",
+  "categories": ["examples","java","hello-world"],
+  "url": "/examples/java/hello-world/free-paycheck-calculator",
+  "thumbnail": "/examples/java/hello-world/images/free-paycheck-calculator-1.png",
+  "tagline": "Find months that have three paychecks in them.",
+  "tags": ["example","java","hello-world","util"],
+  "date": "2017-05-06 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Exporting Jar Files",
+  "categories": ["tutorials","java"],
+  "url": "/tutorials/java/exporting-jars",
+  "thumbnail": "/tutorials/java/images/exporting-jars-5.png",
+  "tagline": "Package your code so other people can run it.",
+  "tags": ["tutorial","java","jar"],
+  "date": "2017-04-23 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Eclipse",
+  "categories": ["tutorials","java"],
+  "url": "/tutorials/java/eclipse",
+  "thumbnail": "/tutorials/java/images/eclipse-16.png",
+  "tagline": "Upgrade your code editor.",
+  "tags": ["tutorial","java","eclipse"],
+  "date": "2017-04-22 00:00:00 +0000",
+  "printedPages": 5
+ },
+
+
+
+
+
+ {
+  "title": "Collision Detection",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/collision-detection",
+  "thumbnail": "/tutorials/processing/images/collision-detection-16.png",
+  "tagline": "Trigger an action when objects overlap.",
+  "tags": ["tutorial","processing","advanced","collision-detection"],
+  "date": "2017-04-15 00:00:00 +0000",
+  "printedPages": 15
+ },
+
+
+
+
+
+ {
+  "title": "Libraries",
+  "categories": ["tutorials","java"],
+  "url": "/tutorials/java/libraries",
+  "thumbnail": "/tutorials/java/images/libraries-3.png",
+  "tagline": "The power of other people's code.",
+  "tags": ["tutorial","java","libraries"],
+  "date": "2017-04-10 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Higher Lower",
+  "categories": ["examples","java","swing"],
+  "url": "/examples/java/swing/higher-lower-computer-gui",
+  "thumbnail": "/examples/java/hello-world/images/higher-lower-random-computer-player-2.png",
+  "tagline": "Guessing game gui",
+  "tags": ["example","java","swing"],
+  "date": "2017-04-09 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Circle Button",
+  "categories": ["examples","java","swing"],
+  "url": "/examples/java/swing/circle-button",
+  "thumbnail": "/examples/java/swing/images/circle-button-1.png",
+  "tagline": "Rectangle buttons are so last year.",
+  "tags": ["example","java","swing"],
+  "date": "2017-04-08 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Swing",
+  "categories": ["tutorials","java"],
+  "url": "/tutorials/java/swing",
+  "thumbnail": "/tutorials/java/images/swing-17.png",
+  "tagline": "Create a graphical user interface.",
+  "tags": ["tutorial","java"],
+  "date": "2017-03-27 00:00:00 +0000",
+  "printedPages": 19
+ },
+
+
+
+
+
+ {
+  "title": "Inheritance",
+  "categories": ["tutorials","java"],
+  "url": "/tutorials/java/inheritance",
+  "thumbnail": "/tutorials/java/images/inheritance-2.png",
+  "tagline": "Take OOP to the next level.",
+  "tags": ["tutorial","java"],
+  "date": "2017-03-14 00:00:00 +0000",
+  "printedPages": 17
+ },
+
+
+
+
+
+ {
+  "title": "Higher Lower (Random Computer Player)",
+  "categories": ["examples","java","hello-world"],
+  "url": "/examples/java/hello-world/higher-lower-random-computer-player",
+  "thumbnail": "/examples/java/hello-world/images/higher-lower-random-computer-player-2.png",
+  "tagline": "Think of a number and the computer will guess what it is.",
+  "tags": ["example","java","hello-world","higher-lower"],
+  "date": "2017-03-12 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Higher Lower (Human Player)",
+  "categories": ["examples","java","hello-world"],
+  "url": "/examples/java/hello-world/higher-lower-human-player",
+  "thumbnail": "/examples/java/hello-world/images/higher-lower-human-player-2.png",
+  "tagline": "Try to guess what number the computer is thinking.",
+  "tags": ["example","java","hello-world","higher-lower"],
+  "date": "2017-03-09 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Debugging",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/debugging",
+  "thumbnail": "/tutorials/processing/images/debugging-6.png",
+  "tagline": "How to fix errors in your code.",
+  "tags": ["tutorial","processing"],
+  "date": "2017-03-04 00:00:00 +0000",
+  "printedPages": 6
+ },
+
+
+
+
+
+ {
+  "title": "Errors",
+  "categories": ["tutorials","java"],
+  "url": "/tutorials/java/errors",
+  "thumbnail": "/tutorials/java/images/setup-7.png",
+  "tagline": "Catch exceptions and debug errors in your code.",
+  "tags": ["tutorial","java"],
+  "date": "2017-02-26 00:00:00 +0000",
+  "printedPages": 13
+ },
+
+
+
+
+
+ {
+  "title": "Creating Classes",
+  "categories": ["tutorials","java"],
+  "url": "/tutorials/java/creating-classes",
+  "thumbnail": "/tutorials/java/images/creating-classes-2.png",
+  "tagline": "Learn more about creating classes.",
+  "tags": ["tutorial","java"],
+  "date": "2017-02-25 00:00:00 +0000",
+  "printedPages": 12
+ },
+
+
+
+
+
+ {
+  "title": "Hello World",
+  "categories": ["tutorials","java"],
+  "url": "/tutorials/java/hello-world",
+  "thumbnail": "/tutorials/java/images/hello-world-3.png",
+  "tagline": "Write, compile, and run your first Java application.",
+  "tags": ["tutorial","java"],
+  "date": "2017-02-22 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Java Setup",
+  "categories": ["tutorials","java"],
+  "url": "/tutorials/java/setup",
+  "thumbnail": "/tutorials/java/images/setup-7.png",
+  "tagline": "Install and run Java.",
+  "tags": ["tutorial","java"],
+  "date": "2017-02-21 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Teaching Resources",
+  "categories": ["blog"],
+  "url": "/blog/teaching-resources",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2017-02-20 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Teaching Professional Coding",
+  "categories": ["teaching","guides"],
+  "url": "/teaching/guides/professionals",
+  "thumbnail": "/tutorials/processing/images/hour-of-code-11.png",
+  "tagline": "",
+  "tags": ["teaching"],
+  "date": "2017-02-19 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Teaching Primary Students",
+  "categories": ["teaching","guides"],
+  "url": "/teaching/guides/primary",
+  "thumbnail": "/tutorials/processing/images/hour-of-code-11.png",
+  "tagline": "Teach younger students.",
+  "tags": ["teaching"],
+  "date": "2017-02-19 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Computer Science Outreach",
+  "categories": ["teaching","guides"],
+  "url": "/teaching/guides/outreach",
+  "thumbnail": "/tutorials/processing/images/hour-of-code-11.png",
+  "tagline": "Reach out to underrepresented students.",
+  "tags": ["teaching"],
+  "date": "2017-02-19 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Teaching Game Development",
+  "categories": ["teaching","guides"],
+  "url": "/teaching/guides/gamedev",
+  "thumbnail": "/tutorials/processing/images/hour-of-code-11.png",
+  "tagline": "Teach gamedev.",
+  "tags": ["teaching"],
+  "date": "2017-02-19 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Teaching Artistic Coding",
+  "categories": ["teaching","guides"],
+  "url": "/teaching/guides/art",
+  "thumbnail": "/tutorials/processing/images/hour-of-code-11.png",
+  "tagline": "Teaching creative coding",
+  "tags": ["teaching"],
+  "date": "2017-02-19 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Links",
+  "categories": ["gallery"],
+  "url": "/gallery/links",
+  "thumbnail": "/tutorials/processing/images/hour-of-code-11.png",
+  "tagline": "Links to cool projects.",
+  "tags": [],
+  "date": "2017-02-19 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Teaching a Processing Class",
+  "categories": ["teaching","guides"],
+  "url": "/teaching/guides/semester",
+  "thumbnail": "/tutorials/processing/images/hour-of-code-11.png",
+  "tagline": "Teach a full Processing course.",
+  "tags": ["teaching"],
+  "date": "2017-02-18 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Programming Curriculum",
+  "categories": ["teaching","guides"],
+  "url": "/teaching/guides/curriculum",
+  "thumbnail": "/tutorials/processing/images/hour-of-code-11.png",
+  "tagline": "Plan a multi-year curriculum.",
+  "tags": ["teaching"],
+  "date": "2017-02-18 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "How to Program",
+  "categories": ["tutorials","how-to"],
+  "url": "/tutorials/how-to/program",
+  "thumbnail": "/tutorials/how-to/images/program-1.png",
+  "tagline": "Break problems down into smaller steps.",
+  "tags": ["tutorial","how-to"],
+  "date": "2017-02-15 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "One-Week Workshop",
+  "categories": ["teaching","guides"],
+  "url": "/teaching/guides/week",
+  "thumbnail": "/tutorials/processing/images/hour-of-code-11.png",
+  "tagline": "Teach a one-week workshop.",
+  "tags": ["teaching"],
+  "date": "2017-02-15 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Scaling Heart",
+  "categories": ["examples","processing","using-variables"],
+  "url": "/examples/processing/using-variables/scaling-heart",
+  "thumbnail": "/examples/processing/using-variables/images/scaling-heart-1.png",
+  "tagline": "Scale a heart. ❤",
+  "tags": ["example","processing","❤"],
+  "date": "2017-02-14 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Random Hearts",
+  "categories": ["examples","processing","creating-functions"],
+  "url": "/examples/processing/creating-functions/random-hearts",
+  "thumbnail": "/examples/processing/creating-functions/images/random-hearts-1.png",
+  "tagline": "Draw random hearts. ❤",
+  "tags": ["example","processing","❤"],
+  "date": "2017-02-14 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Heart",
+  "categories": ["examples","processing","calling-functions"],
+  "url": "/examples/processing/calling-functions/heart",
+  "thumbnail": "/examples/processing/using-variables/images/scaling-heart-1.png",
+  "tagline": "Draw a heart. ❤",
+  "tags": ["example","processing","❤"],
+  "date": "2017-02-14 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "One-Day Workshop",
+  "categories": ["teaching","guides"],
+  "url": "/teaching/guides/day",
+  "thumbnail": "/tutorials/processing/images/hour-of-code-11.png",
+  "tagline": "Teach a one-day workshop.",
+  "tags": ["teaching"],
+  "date": "2017-02-13 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Simple Weather Map",
+  "categories": ["examples","javascript","libraries"],
+  "url": "/examples/javascript/libraries/simple-weather-map",
+  "thumbnail": "/examples/javascript/libraries/images/simple-weather-map-1.png",
+  "tagline": "View the current weather on a map.",
+  "tags": ["example","javascript","libraries","maps"],
+  "date": "2017-02-11 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Personal Webpage (default Bootstrap styles)",
+  "categories": ["examples","javascript","bootstrap"],
+  "url": "/examples/javascript/bootstrap/personal-page-bootstrap-default",
+  "thumbnail": "/examples/javascript/bootstrap/images/personal-page-bootstrap-default-1.png",
+  "tagline": "Use Bootstrap to style your personal webpage.",
+  "tags": ["example","javascript","html","css","bootstrap"],
+  "date": "2017-02-11 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Personal Webpage (Cyborg Bootstrap theme)",
+  "categories": ["examples","javascript","bootstrap"],
+  "url": "/examples/javascript/bootstrap/personal-page-bootstrap-cyborg",
+  "thumbnail": "/examples/javascript/bootstrap/images/personal-page-bootstrap-cyborg-1.png",
+  "tagline": "Use Bootstrap themes to style your personal webpage.",
+  "tags": ["example","javascript","html","css","bootstrap"],
+  "date": "2017-02-11 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Personal Webpage (light styles)",
+  "categories": ["examples","html"],
+  "url": "/examples/html/personal-page-light-styles",
+  "thumbnail": "/examples/html/images/personal-page-light-styles-1.png",
+  "tagline": "Add styles to your personal webpage.",
+  "tags": ["example","html","css"],
+  "date": "2017-02-11 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Personal Webpage (dark styles)",
+  "categories": ["examples","html"],
+  "url": "/examples/html/personal-page-dark-styles",
+  "thumbnail": "/examples/html/images/personal-page-dark-styles-1.png",
+  "tagline": "Add dark styles to your personal webpage.",
+  "tags": ["example","html","css"],
+  "date": "2017-02-11 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Hour of Code",
+  "categories": ["teaching","guides"],
+  "url": "/teaching/guides/hour",
+  "thumbnail": "/tutorials/processing/images/hour-of-code-11.png",
+  "tagline": "Only have an hour to spare? That's plenty of time!",
+  "tags": ["teaching"],
+  "date": "2017-02-08 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Processing.js",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/processing-js",
+  "thumbnail": "/tutorials/processing/images/processing-js-1.png",
+  "tagline": "Embed your sketch in a webpage.",
+  "tags": ["tutorial","processing","basic"],
+  "date": "2017-02-07 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Exporting Applications",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/exporting-applications",
+  "thumbnail": "/tutorials/processing/images/exporting-applications-5.png",
+  "tagline": "Share your programs with other people.",
+  "tags": ["tutorial","processing","basic"],
+  "date": "2017-02-05 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Hosting",
+  "categories": ["tutorials","html"],
+  "url": "/tutorials/html/hosting",
+  "thumbnail": "/examples/html/images/personal-page-unstyled-1.png",
+  "tagline": "Let other people visit your page.",
+  "tags": ["tutorial","html","basic"],
+  "date": "2017-02-05 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Hour of Code",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/hour-of-code",
+  "thumbnail": "/tutorials/processing/images/hour-of-code-11.png",
+  "tagline": "Learn the basics of programming in an hour!",
+  "tags": ["tutorial","processing","hour-of-code"],
+  "date": "2017-02-03 00:00:00 +0000",
+  "printedPages": 11
+ },
+
+
+
+
+
+ {
+  "title": "Personal Webpage (no styles)",
+  "categories": ["examples","html"],
+  "url": "/examples/html/personal-page-unstyled",
+  "thumbnail": "/examples/html/images/personal-page-unstyled-1.png",
+  "tagline": "Check out my basic personal webpage.",
+  "tags": ["example","html"],
+  "date": "2017-02-01 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Washington DC Tour",
+  "categories": ["examples","javascript","libraries"],
+  "url": "/examples/javascript/libraries/washington-dc-tour",
+  "thumbnail": "/examples/javascript/libraries/images/washington-dc-tour-1.png",
+  "tagline": "Take a tour of my favorite Washington DC places!",
+  "tags": ["example","javascript","libraries","maps"],
+  "date": "2017-01-30 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "JavaScript Tutorials",
+  "categories": ["blog"],
+  "url": "/blog/javascript-tutorials",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2017-01-29 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "AJAX and JSON",
+  "categories": ["tutorials","javascript"],
+  "url": "/tutorials/javascript/ajax",
+  "thumbnail": "/tutorials/javascript/images/ajax-1.png",
+  "tagline": "Load external content into your webpage.",
+  "tags": ["tutorial","javascript","basic"],
+  "date": "2017-01-17 00:00:00 +0000",
+  "printedPages": 9
+ },
+
+
+
+
+
+ {
+  "title": "Bootstrap",
+  "categories": ["tutorials","javascript"],
+  "url": "/tutorials/javascript/bootstrap",
+  "thumbnail": "/tutorials/javascript/images/bootstrap-1.png",
+  "tagline": "Create a modern-looking website using Bootstrap.",
+  "tags": ["tutorial","javascript","basic"],
+  "date": "2017-01-15 00:00:00 +0000",
+  "printedPages": 5
+ },
+
+
+
+
+
+ {
+  "title": "JQuery",
+  "categories": ["tutorials","javascript"],
+  "url": "/tutorials/javascript/jquery",
+  "thumbnail": "/tutorials/javascript/images/jquery-1.png",
+  "tagline": "Learn about the most popular JavaScript library.",
+  "tags": ["tutorial","javascript","basic"],
+  "date": "2017-01-14 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Libraries",
+  "categories": ["tutorials","javascript"],
+  "url": "/tutorials/javascript/libraries",
+  "thumbnail": "/tutorials/javascript/images/libraries-1.png",
+  "tagline": "Learn about using libraries in JavaScript.",
+  "tags": ["tutorial","javascript","basic"],
+  "date": "2017-01-09 00:00:00 +0000",
+  "printedPages": 5
+ },
+
+
+
+
+
+ {
+  "title": "Spiral",
+  "categories": ["examples","processing","for-loops"],
+  "url": "/examples/processing/for-loops/spiral",
+  "thumbnail": "/examples/processing/for-loops/images/spiral-2.png",
+  "tagline": "Create a colorful spiral.",
+  "tags": ["example","processing","for-loop","pretty","100-days-of-code"],
+  "date": "2017-01-08 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Creating JavaScript Objects",
+  "categories": ["tutorials","javascript"],
+  "url": "/tutorials/javascript/creating-objects",
+  "thumbnail": "/tutorials/javascript/images/creating-objects-1.png",
+  "tagline": "Learn about creating objects in JavaScript.",
+  "tags": ["tutorial","javascript","basic"],
+  "date": "2017-01-07 00:00:00 +0000",
+  "printedPages": 6
+ },
+
+
+
+
+
+ {
+  "title": "Letters",
+  "categories": ["examples","processing","for-loops"],
+  "url": "/examples/processing/for-loops/letters",
+  "thumbnail": "/examples/processing/for-loops/images/letters-1.png",
+  "tagline": "Show a grid of letters.",
+  "tags": ["example","processing","for-loop","typography","100-days-of-code"],
+  "date": "2017-01-06 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Developer Tools",
+  "categories": ["tutorials","javascript"],
+  "url": "/tutorials/javascript/developer-tools",
+  "thumbnail": "/tutorials/javascript/images/developer-tools-2.png",
+  "tagline": "Meet your new best friend.",
+  "tags": ["tutorial","javascript","basic"],
+  "date": "2017-01-04 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Vine",
+  "categories": ["examples","processing","animation"],
+  "url": "/examples/processing/animation/vine",
+  "thumbnail": "/examples/processing/animation/images/vine-3.png",
+  "tagline": "Procedurally generated vine animation.",
+  "tags": ["example","processing","animation","nature","generative-art","100-days-of-code"],
+  "date": "2017-01-03 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "100 Days of Code",
+  "categories": ["blog"],
+  "url": "/blog/100-days-of-code",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2017-01-01 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Interactive HTML",
+  "categories": ["tutorials","javascript"],
+  "url": "/tutorials/javascript/interactive-html",
+  "thumbnail": "/tutorials/javascript/images/interactive-html-1.png",
+  "tagline": "Learn about creating interactive HTML with JavaScript.",
+  "tags": ["tutorial","javascript","basic"],
+  "date": "2016-12-30 00:00:00 +0000",
+  "printedPages": 7
+ },
+
+
+
+
+
+ {
+  "title": "Creating Functions",
+  "categories": ["tutorials","javascript"],
+  "url": "/tutorials/javascript/creating-functions",
+  "thumbnail": "/tutorials/javascript/images/creating-functions-1.png",
+  "tagline": "Learn about creating functions in JavaScript.",
+  "tags": ["tutorial","javascript","basic"],
+  "date": "2016-12-28 00:00:00 +0000",
+  "printedPages": 5
+ },
+
+
+
+
+
+ {
+  "title": "Creating Variables",
+  "categories": ["tutorials","javascript"],
+  "url": "/tutorials/javascript/creating-variables",
+  "thumbnail": "/tutorials/javascript/images/calling-javascript-3.png",
+  "tagline": "Learn more about dynamic typing in JavaScript.",
+  "tags": ["tutorial","javascript","basic"],
+  "date": "2016-12-27 00:00:00 +0000",
+  "printedPages": 5
+ },
+
+
+
+
+
+ {
+  "title": "Calling JavaScript",
+  "categories": ["tutorials","javascript"],
+  "url": "/tutorials/javascript/calling-javascript",
+  "thumbnail": "/tutorials/javascript/images/calling-javascript-3.png",
+  "tagline": "Start making interactive webpages.",
+  "tags": ["tutorial","javascript","basic"],
+  "date": "2016-12-27 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Ludum Dare and Programming Without a Computer",
+  "categories": ["blog"],
+  "url": "/blog/ludum-dare-and-programming-without-a-computer",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2016-12-24 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Random Synthesizer",
+  "categories": ["examples","processing","libraries"],
+  "url": "/examples/processing/libraries/random-synthesizer",
+  "thumbnail": "/examples/processing/libraries/images/random-synthesizer-1.png",
+  "tagline": "Use the Minim library to play random synthesizer notes.",
+  "tags": ["example","processing","library"],
+  "date": "2016-11-26 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Rainbow Logo",
+  "categories": ["examples","html"],
+  "url": "/examples/html/rainbow-logo",
+  "thumbnail": "/examples/html/images/rainbow-logo-1.png",
+  "tagline": "Use CSS to create a rainbow logo!",
+  "tags": ["example","html","css"],
+  "date": "2016-11-26 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "CSS",
+  "categories": ["tutorials","html"],
+  "url": "/tutorials/html/css",
+  "thumbnail": "/tutorials/html/images/css-1.png",
+  "tagline": "Learn how to style your HTML pages.",
+  "tags": ["tutorial","html","basic"],
+  "date": "2016-11-24 00:00:00 +0000",
+  "printedPages": 7
+ },
+
+
+
+
+
+ {
+  "title": "Draggable Circle",
+  "categories": ["examples","processing","input"],
+  "url": "/examples/processing/input/draggable-circle",
+  "thumbnail": "/examples/processing/input/images/draggable-circle-1.gif",
+  "tagline": "Reposition a circle by dragging it around the screen.",
+  "tags": ["example","processing","input"],
+  "date": "2016-11-22 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Random Circles",
+  "categories": ["examples","processing","for-loops"],
+  "url": "/examples/processing/for-loops/random-circles",
+  "thumbnail": "/examples/processing/for-loops/images/random-circles-1.png",
+  "tagline": "Random circles fill up the screen.",
+  "tags": ["example","processing","for-loop","pretty"],
+  "date": "2016-11-22 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Radial Gradient",
+  "categories": ["examples","processing","for-loops"],
+  "url": "/examples/processing/for-loops/radial-gradient",
+  "thumbnail": "/examples/processing/for-loops/images/radial-gradient-1.png",
+  "tagline": "Create a radial gradient.",
+  "tags": ["example","processing","for-loop"],
+  "date": "2016-11-21 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Corner Gradient",
+  "categories": ["examples","processing","for-loops"],
+  "url": "/examples/processing/for-loops/corner-gradient",
+  "thumbnail": "/examples/processing/for-loops/images/corner-gradient-1.png",
+  "tagline": "Create a corner gradient.",
+  "tags": ["example","processing","for-loop"],
+  "date": "2016-11-21 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Bouncing Gradient",
+  "categories": ["examples","processing","for-loops"],
+  "url": "/examples/processing/for-loops/bouncing-gradient",
+  "thumbnail": "/examples/processing/for-loops/images/bouncing-gradient-1.png",
+  "tagline": "Create a bouncing gradient.",
+  "tags": ["example","processing","for-loop"],
+  "date": "2016-11-21 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "2D Gradient",
+  "categories": ["examples","processing","for-loops"],
+  "url": "/examples/processing/for-loops/2d-gradient",
+  "thumbnail": "/examples/processing/for-loops/images/2d-gradient-1.png",
+  "tagline": "Create a 2D gradient.",
+  "tags": ["example","processing","for-loop","pretty"],
+  "date": "2016-11-18 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Code Can Bring Us Together",
+  "categories": ["blog"],
+  "url": "/blog/code-can-bring-us-together",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2016-11-09 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Worms",
+  "categories": ["examples","processing","animation"],
+  "url": "/examples/processing/animation/worms",
+  "thumbnail": "/examples/processing/animation/images/worms-1.png",
+  "tagline": "Your basghetti is now worms!",
+  "tags": ["example","processing","animation","generative-art"],
+  "date": "2016-11-08 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "HTML Tags",
+  "categories": ["tutorials","html"],
+  "url": "/tutorials/html/html-tags",
+  "thumbnail": "/tutorials/html/images/html-tags-1.png",
+  "tagline": "Learn about some more tags you can use in HTML.",
+  "tags": ["tutorial","html","basic"],
+  "date": "2016-11-06 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Turtle Graphics",
+  "categories": ["examples","processing","creating-functions"],
+  "url": "/examples/processing/creating-functions/turtle-graphics",
+  "thumbnail": "/examples/processing/creating-functions/images/turtle-graphics-1.gif",
+  "tagline": "Use functions to create a pen that you can rotate and move.",
+  "tags": ["example","processing","procedural-generation","🐢"],
+  "date": "2016-11-04 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "HTML",
+  "categories": ["tutorials","html"],
+  "url": "/tutorials/html/html",
+  "thumbnail": "/tutorials/html/images/html-2.png",
+  "tagline": "Provide content using HTML.",
+  "tags": ["tutorial","html","basic"],
+  "date": "2016-11-03 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Intro to Web Development",
+  "categories": ["tutorials","html"],
+  "url": "/tutorials/html/intro-to-web-development",
+  "thumbnail": "/tutorials/html/images/html-2.png",
+  "tagline": "Getting on the information superhighway.",
+  "tags": ["tutorial","html","basic"],
+  "date": "2016-11-02 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Background Info",
+  "categories": ["blog"],
+  "url": "/blog/background-info",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2016-11-01 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Random Piano",
+  "categories": ["examples","processing","libraries"],
+  "url": "/examples/processing/libraries/random-piano",
+  "thumbnail": "/examples/processing/libraries/images/random-piano-1.png",
+  "tagline": "Use the Minim library to play random piano notes.",
+  "tags": ["example","processing","library"],
+  "date": "2016-10-30 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Libraries",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/libraries",
+  "thumbnail": "/tutorials/processing/images/libraries-7.png",
+  "tagline": "Use libraries to expand what Processing can do.",
+  "tags": ["tutorial","processing","basic","library"],
+  "date": "2016-10-28 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Tricks and Treats and Tags",
+  "categories": ["blog"],
+  "url": "/blog/tricks-and-treats-and-tags",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2016-10-23 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Pumpkin Patch",
+  "categories": ["examples","processing","input"],
+  "url": "/examples/processing/input/pumpkin-patch",
+  "thumbnail": "/examples/processing/input/images/pumpkin-patch-2.gif",
+  "tagline": "Click to add a pumpkin to the patch.",
+  "tags": ["example","processing","input","🎃"],
+  "date": "2016-10-21 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Glowing Jack-o'-Lantern",
+  "categories": ["examples","processing","creating-functions"],
+  "url": "/examples/processing/creating-functions/glowing-jack-o-lantern",
+  "thumbnail": "/examples/processing/creating-functions/images/glowing-jack-o-lantern-2.gif",
+  "tagline": "Make a glowing Jack-o'-lantern.",
+  "tags": ["example","processing","procedural-generation","🎃"],
+  "date": "2016-10-20 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Twitter Cards and Open Graph",
+  "categories": ["blog"],
+  "url": "/blog/twitter-cards-and-open-graph",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2016-10-17 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Jack-o'-Lantern",
+  "categories": ["examples","processing","using-variables"],
+  "url": "/examples/processing/using-variables/jack-o-lantern",
+  "thumbnail": "/examples/processing/using-variables/images/jack-o-lantern-1.png",
+  "tagline": "Draw a Jack-o'-lantern.",
+  "tags": ["example","processing","🎃"],
+  "date": "2016-10-13 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Random Jack-o'-Lantern",
+  "categories": ["examples","processing","creating-variables"],
+  "url": "/examples/processing/creating-variables/random-jack-o-lantern",
+  "thumbnail": "/examples/processing/creating-variables/images/random-jack-o-lantern-1.png",
+  "tagline": "Procedurally generate a Jack-o'-lantern.",
+  "tags": ["example","processing","procedural-generation","🎃"],
+  "date": "2016-10-13 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Flower",
+  "categories": ["examples","processing","using-variables"],
+  "url": "/examples/processing/using-variables/flower",
+  "thumbnail": "/examples/processing/using-variables/images/flower-5.png",
+  "tagline": "Scale a flower.",
+  "tags": ["example","processing","pretty"],
+  "date": "2016-10-12 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Happy Commenting",
+  "categories": ["blog"],
+  "url": "/blog/happy-commenting",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2016-10-12 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Images",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/images.html",
+  "thumbnail": "/tutorials/processing/images/images-1.png",
+  "tagline": "Display and manipulate image files.",
+  "tags": ["tutorial","processing","basic","image"],
+  "date": "2016-10-06 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "NES Filter",
+  "categories": ["examples","processing","images"],
+  "url": "/examples/processing/images/nes-filter",
+  "thumbnail": "/examples/processing/images/images/nes-filter-2.png",
+  "tagline": "Color an image using the NES palette.",
+  "tags": ["example","processing","image"],
+  "date": "2016-10-06 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Flower",
+  "categories": ["examples","processing","calling-functions"],
+  "url": "/examples/processing/calling-functions/flower",
+  "thumbnail": "/examples/processing/calling-functions/images/flower-1.png",
+  "tagline": "Draw a flower.",
+  "tags": ["example","processing","pretty"],
+  "date": "2016-10-06 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "The CodePen is Mightier than the Sword",
+  "categories": ["blog"],
+  "url": "/blog/the-codepen-is-mightier-than-the-sword",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2016-10-03 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Random Walkers",
+  "categories": ["examples","processing","arraylists"],
+  "url": "/examples/processing/arraylists/random-walkers",
+  "thumbnail": "/examples/processing/arraylists/images/random-walkers-1.gif",
+  "tagline": "Randomly colored random walkers.",
+  "tags": ["example","processing","animation","arraylist","random-walker","generative-art","emergence"],
+  "date": "2016-09-30 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Flocking",
+  "categories": ["examples","processing","arraylists"],
+  "url": "/examples/processing/arraylists/flocking",
+  "thumbnail": "/examples/processing/arraylists/images/flocking-1.gif",
+  "tagline": "Drag to create more Flockers.",
+  "tags": ["example","processing","animation","arraylist","flocking","emergence"],
+  "date": "2016-09-30 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Por Ejemplo",
+  "categories": ["blog"],
+  "url": "/blog/por-ejemplo",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2016-09-30 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Eyes",
+  "categories": ["examples","processing","using-objects"],
+  "url": "/examples/processing/using-objects/eyes",
+  "thumbnail": "/examples/processing/using-objects/images/eyes-1.gif",
+  "tagline": "",
+  "tags": ["example","processing","oop"],
+  "date": "2016-09-29 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Flyers",
+  "categories": ["examples","processing","creating-classes"],
+  "url": "/examples/processing/creating-classes/flyers",
+  "thumbnail": "/examples/processing/creating-classes/images/flyers-2.gif",
+  "tagline": "Create a swarm that follows the mouse.",
+  "tags": ["example","processing","creating-classes","animation"],
+  "date": "2016-09-29 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Flocking",
+  "categories": ["examples","processing","creating-classes"],
+  "url": "/examples/processing/creating-classes/flocking",
+  "thumbnail": "/examples/processing/creating-classes/images/flocking-1.gif",
+  "tagline": "Simulate the behavior of a flock of birds.",
+  "tags": ["example","processing","creating-classes","animation","flocking","emergence"],
+  "date": "2016-09-29 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Random Walkers",
+  "categories": ["examples","processing","input"],
+  "url": "/examples/processing/input/random-walkers",
+  "thumbnail": "/examples/processing/input/images/random-walkers-2.gif",
+  "tagline": "Randomly colored random walkers.",
+  "tags": ["example","processing","generative-art","random-walker","emergence"],
+  "date": "2016-09-26 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Random Walkers",
+  "categories": ["examples","processing","arrays"],
+  "url": "/examples/processing/arrays/random-walkers",
+  "thumbnail": "/examples/processing/arrays/images/random-walkers-6.gif",
+  "tagline": "Randomly colored random walkers.",
+  "tags": ["example","processing","animation","random-walker","generative-art","random"],
+  "date": "2016-09-26 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Bouncing Balls",
+  "categories": ["examples","processing","input"],
+  "url": "/examples/processing/input/bouncing-balls",
+  "thumbnail": "/examples/processing/input/images/bouncing-balls-1.gif",
+  "tagline": "Make a random bouncing ball pit.",
+  "tags": ["example","processing","input"],
+  "date": "2016-09-24 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Good Morning",
+  "categories": ["examples","processing","if-statements"],
+  "url": "/examples/processing/if-statements/good-morning",
+  "thumbnail": "/examples/processing/if-statements/images/good-morning-1.png",
+  "tagline": "Say hello based on the time of day.",
+  "tags": ["example","processing","if"],
+  "date": "2016-09-24 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Random Colors",
+  "categories": ["examples","processing","for-loops"],
+  "url": "/examples/processing/for-loops/random-colors",
+  "thumbnail": "/examples/processing/for-loops/images/random-colors-1.png",
+  "tagline": "Make every pixel a different color.",
+  "tags": ["example","processing","for-loop"],
+  "date": "2016-09-24 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Bouncing Balls",
+  "categories": ["examples","processing","arrays"],
+  "url": "/examples/processing/arrays/bouncing-balls",
+  "thumbnail": "/examples/processing/arrays/images/bouncing-balls-1.gif",
+  "tagline": "Make a random bouncing ball pit.",
+  "tags": ["example","processing","array","animation","random"],
+  "date": "2016-09-24 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Random Walker",
+  "categories": ["examples","processing","animation"],
+  "url": "/examples/processing/animation/random-walker",
+  "thumbnail": "/examples/processing/animation/images/random-walker-2.gif",
+  "tagline": "aka the scribbler",
+  "tags": ["example","processing","animation","random-walker","generative-art"],
+  "date": "2016-09-24 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Random Faces",
+  "categories": ["examples","processing","creating-functions"],
+  "url": "/examples/processing/creating-functions/random-faces",
+  "thumbnail": "/examples/processing/creating-functions/images/random-faces-1.gif",
+  "tagline": "Procedurally generate infinite smiley faces.",
+  "tags": ["example","processing","procedural-generation"],
+  "date": "2016-09-23 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Smiley Face",
+  "categories": ["examples","processing","using-variables"],
+  "url": "/examples/processing/using-variables/smiley-face",
+  "thumbnail": "/examples/processing/using-variables/images/smiley-face-2.png",
+  "tagline": "Scale a smiley face.",
+  "tags": ["example","processing"],
+  "date": "2016-08-05 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Random Face",
+  "categories": ["examples","processing","creating-variables"],
+  "url": "/examples/processing/creating-variables/random-face",
+  "thumbnail": "/examples/processing/creating-variables/images/random-face-4.png",
+  "tagline": "Procedurally generate a smiley face.",
+  "tags": ["example","processing","procedural-generation"],
+  "date": "2016-08-05 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Smiley Face",
+  "categories": ["examples","processing","calling-functions"],
+  "url": "/examples/processing/calling-functions/smiley-face",
+  "thumbnail": "/examples/processing/calling-functions/images/smiley-face-1.png",
+  "tagline": "Draw a smiley face.",
+  "tags": ["example","processing"],
+  "date": "2016-07-30 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Hello World",
+  "categories": ["blog"],
+  "url": "/blog/hello-world",
+  "thumbnail": "",
+  "tagline": "",
+  "tags": [],
+  "date": "2016-07-28 00:00:00 +0000",
+  "printedPages": 1
+ },
+
+
+
+
+
+ {
+  "title": "Creating Classes",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/creating-classes",
+  "thumbnail": "/tutorials/processing/images/creating-classes-4.gif",
+  "tagline": "Store whatever state you can think of.",
+  "tags": ["tutorial","processing","basic"],
+  "date": "2016-07-18 00:00:00 +0000",
+  "printedPages": 6
+ },
+
+
+
+
+
+ {
+  "title": "ArrayLists",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/arraylists",
+  "thumbnail": "/tutorials/processing/images/arraylists-1.gif",
+  "tagline": "Create an object that stores other objects.",
+  "tags": ["tutorial","processing","basic"],
+  "date": "2016-07-18 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Using Objects",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/using-objects",
+  "thumbnail": "/tutorials/processing/images/using-objects-2.png",
+  "tagline": "Store a state (not just a value) in a variable.",
+  "tags": ["tutorial","processing","basic"],
+  "date": "2016-07-16 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "Input",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/input",
+  "thumbnail": "/tutorials/processing/images/input-8.gif",
+  "tagline": "React to mouse and keyboard input to make interactive programs.",
+  "tags": ["tutorial","processing","basic"],
+  "date": "2016-07-14 00:00:00 +0000",
+  "printedPages": 9
+ },
+
+
+
+
+
+ {
+  "title": "For Loops",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/for-loops",
+  "thumbnail": "/tutorials/processing/images/for-loops-6.png",
+  "tagline": "Use patterns to repeat work without repeating code.",
+  "tags": ["tutorial","processing","basic"],
+  "date": "2016-07-12 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Arrays",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/arrays",
+  "thumbnail": "/tutorials/processing/images/arrays-4.gif",
+  "tagline": "Create variables that hold multiple values.",
+  "tags": ["tutorial","processing","basic"],
+  "date": "2016-07-12 00:00:00 +0000",
+  "printedPages": 6
+ },
+
+
+
+
+
+ {
+  "title": "Animation",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/animation",
+  "thumbnail": "/tutorials/processing/images/animation-4.gif",
+  "tagline": "Create animated visualizations.",
+  "tags": ["tutorial","processing","basic"],
+  "date": "2016-07-11 00:00:00 +0000",
+  "printedPages": 5
+ },
+
+
+
+
+
+ {
+  "title": "If Statements",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/if-statements",
+  "thumbnail": "/tutorials/processing/images/if-statements-6.png",
+  "tagline": "Make decisions in your code.",
+  "tags": ["tutorial","processing","basic"],
+  "date": "2016-07-09 00:00:00 +0000",
+  "printedPages": 5
+ },
+
+
+
+
+
+ {
+  "title": "Creating Functions",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/creating-functions",
+  "thumbnail": "/tutorials/processing/images/creating-functions-9.gif",
+  "tagline": "Write your own custom functions.",
+  "tags": ["tutorial","processing","basic"],
+  "date": "2016-07-08 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Using Variables",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/using-variables",
+  "thumbnail": "/tutorials/processing/images/using-variables-5.png",
+  "tagline": "Get information from the computer.",
+  "tags": ["tutorial","processing","basic"],
+  "date": "2016-06-30 00:00:00 +0000",
+  "printedPages": 4
+ },
+
+
+
+
+
+ {
+  "title": "Creating Variables",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/creating-variables",
+  "thumbnail": "/tutorials/processing/images/creating-variables-3.png",
+  "tagline": "Store your own information.",
+  "tags": ["tutorial","processing","basic"],
+  "date": "2016-06-30 00:00:00 +0000",
+  "printedPages": 3
+ },
+
+
+
+
+
+ {
+  "title": "What is Programming?",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/what-is-programming",
+  "thumbnail": "/tutorials/processing/images/input-10.gif",
+  "tagline": "Get ready to write some code.",
+  "tags": ["tutorial","processing","basic"],
+  "date": "2016-06-24 00:00:00 +0000",
+  "printedPages": 2
+ },
+
+
+
+
+
+ {
+  "title": "Calling Functions",
+  "categories": ["tutorials","processing"],
+  "url": "/tutorials/processing/calling-functions",
+  "thumbnail": "/tutorials/processing/images/calling-functions-5.png",
+  "tagline": "Tell the computer what to do.",
+  "tags": ["tutorial","processing","basic"],
+  "date": "2016-06-24 00:00:00 +0000",
+  "printedPages": 3
+ }
+
+]
