@@ -27,8 +27,9 @@ function ajaxfunction() {
     ajaxrequest.open('GET', '/phpmysql/html-welcome.html');
     ajaxrequest.send();
 }
-//check gutter
-function randonMessages() {
+//check gutte
+//check gutter new
+/* function randonMessages() {
     var ajaxRequest = new XMLHttpRequest;
     ajaxRequest.onreadystatechange = function() {
         if (ajaxRequest.readyState == 4) {
@@ -45,6 +46,33 @@ function randonMessages() {
 
     ajaxRequest.open('GET', '/phpmysql/random-welcomes.json');
     ajaxRequest.send();
-}
+} */
 
-//tets
+//test
+
+function randomMessages() {
+    var ajaxMessage = new XMLHttpRequest;
+
+    ajaxMessage.onreadystatechange = function() {
+        if (ajaxMessage.readyState == 4) {
+            if (ajaxMessage.status == 200) {
+                var msgObject = JSON.parse(ajaxMessage.responseText);
+                var msgArray = msgObject.randomMessages;
+                var randomIndex = Math.floor(Math.random() * msgArray.length);
+                var randomMsg = msgArray[randomIndex].message;
+                var randomColor = msgArray[randomIndex].color;
+                document.getElementById("new").innerHTML = randomMsg;
+                document.getElementById("new").style.color = randomColor;
+
+
+            } else {
+                console.log("Status is " + ajaxMessage.status);
+            }
+        } else {
+            console.log("Status is " + ajaxMessage.readyState);
+        }
+    }
+    ajaxMessage.open("GET", "/phpmysql/random-welcomes.json");
+    ajaxMessage.send();
+
+}
