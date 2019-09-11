@@ -34,7 +34,7 @@
             </td>
         </tr>
         <tr>
-            <td>Income</td>
+            <td>Income1</td>
             <td><input type="text" id="income" /></td>
             <td>
                 <div id="incomeHelpDiv">
