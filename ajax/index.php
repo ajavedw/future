@@ -125,6 +125,9 @@
                 var checkboxsubmit = $("#checkboxsubmit").is(":checked");
 
                 isNamevalid(name,e);
+                isPwdRight(password,e)
+                isMsgEmpty(message,e)
+                isChecked(checkboxsubmit,e);
             });
 
             function isNamevalid(nameSubmit,e){
@@ -139,6 +142,58 @@
                 }
             }
 
+            function isPwdRight(pwdSubmit,e){
+                var result = pwdLength(pwdSubmit);
+                if(!result){
+                    $("#password-feedback").text("password should be > 4");
+                    e.preventDefault();
+                }
+                else{
+                    $("#password-feedback").text("");
+                }
+            }
+
+            function isMsgEmpty(msgEnter,e){
+                var result = msgValue(msgEnter);
+                if(!result){
+                    $("#message-feedback").text("message should be > 4");
+                    e.preventDefault();
+                }
+                else{
+                    $("#message-feedback").text("");
+                }
+            }
+
+            function isMsgEmpty(msgEnter,e){
+                var result = msgValue(msgEnter);
+                if(!result){
+                    $("#message-feedback").text("message should be > 4");
+                    e.preventDefault();
+                }
+                else{
+                    $("#message-feedback").text("");
+                }
+            }
+
+
+            function isChecked(checkBoxCheck,e){
+
+                if(!checkBoxCheck){
+                    $("#checkbox-feedback").text("checkbox should be checked");
+                    e.preventDefault();
+                }
+                else{
+                    $("#checkbox-feedback").text("");
+                }
+            }
+
+            function msgValue(msgValue){
+                return msgValue.length>6;
+            }
+
+            function pwdLength(pwdEntered){
+                return pwdEntered.length>4;
+            }
             function checkNameLength(nameEntered){
                 return nameEntered.length > 2;
             }
