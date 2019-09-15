@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="">
 
@@ -34,14 +35,26 @@
     <script>
         $(document).ready(function() {
             $("#getbut").click(function() {
-                var number = $("#input").val();
+                var number1 = $("#input").val();
 
-                $.get("tut_rep_get_logic.php", {
-                        number: numberVal
+                /* $.get("tut_rep_get_logic.php", {
+                        number2: number1
                     },
                     function(data) {
                         $(".result").html(data);
-                    });
+                    }); */
+
+                $.ajax({
+                    type: "get",
+                    url: "tut_rep_get_logic.php",
+                    data: {
+                        number2: number1
+                    },
+
+                    success: function(data) {
+                        $(".result").html(data);
+                    }
+                });
             });
         });
     </script>

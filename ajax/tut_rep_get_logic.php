@@ -1,5 +1,5 @@
 <?php
-$number = htmlspecialchars($_GET["number"]);
+$number = htmlspecialchars($_GET["number2"]);
 if (is_numeric($number) && $number > 0){
     echo "<table>";
     for ($i=0; $i<11; $i++){
