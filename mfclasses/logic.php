@@ -1,5 +1,6 @@
 <?php
 session_start();
+//random bullshit
 $_SESSION['recentlyViewed'] = array();
 for($value=0; $value<10; $value++){
 
@@ -9,10 +10,10 @@ array_push($_SESSION['recentlyViewed'],$code);
 
 
 }
-echo '<pre>';print_r($_SESSION);echo '</pre>';
 
 
-$_SESSION['count'] = 0;
+//count for page view
+$_SESSION['count'] = 1;
 	if(isset($_SESSION['count']))
 	{
 		echo "Your session count: ".$_SESSION['count']."<br />";
@@ -24,7 +25,9 @@ $_SESSION['count'] = 0;
 		echo "Session does not exist";
 	}
 
-    include_once 'classpage.php';
+//including class
+
+include_once 'classpage.php';
 
 $fromClass= new test;
 
@@ -32,11 +35,14 @@ $try = $fromClass->color;
 
 echo $try;
 
-// testing classes
+//testing classes
 $_SESSION['recentlyView']=array();
 $checkSession = new addStock;
 
 $chkSession = $checkSession->storeSessArray('4');
 $chkSession2 = $checkSession->storeSessArray('6');
 $chkSession2 = $checkSession->storeSessArray('8');
+echo '<pre>';
+print_r($_SESSION);
+echo '</pre>';
 ?>
