@@ -1,6 +1,8 @@
 <?php
 session_start();
-//random bullshit
+include_once 'classpage.php';
+
+//random bs
 $_SESSION['recentlyViewed'] = array();
 for($value=0; $value<10; $value++){
 
@@ -27,8 +29,6 @@ $_SESSION['count'] = 1;
 
 //including class
 
-include_once 'classpage.php';
-
 $fromClass= new test;
 
 $try = $fromClass->color;
@@ -36,12 +36,19 @@ $try = $fromClass->color;
 echo $try;
 
 //testing classes
+if(!isset($_SESSION['recentlyView'])){
 $_SESSION['recentlyView']=array();
+}
 $checkSession = new addStock;
 
-$chkSession = $checkSession->storeSessArray('4');
-$chkSession2 = $checkSession->storeSessArray('6');
-$chkSession2 = $checkSession->storeSessArray('8');
+// $chkSession = $checkSession->storeSessArray('4');
+// $chkSession2 = $checkSession->storeSessArray('6');
+// $chkSession2 = $checkSession->storeSessArray('8');
+
+
+
+include 'front.php';
+$chkSession = $checkSession->storeSessArray($val);
 echo '<pre>';
 print_r($_SESSION);
 echo '</pre>';
